@@ -1,0 +1,2 @@
+https://api.solcast.com.au/world_radiation/forecasts?latitude=${lat}&longitude=${lon}&hours=48&api_token=bm6u4mB_RRGjzJb_OFKvMbuVdfjS9bMl
+https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&exclude=current,minutely,daily,alerts&appid=49afb958f2e6418e3e582687eeda45b4
